@@ -1,0 +1,36 @@
+#text 
+{
+    width: 350px;
+    background-color: yellow;
+    height: 200px;
+    overflow: auto;
+    margin-left: 1em;
+    border: 4px orange dashed;
+}
+
+.important 
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.picture 
+{
+    width: 350px;
+    height: 150px;
+    border: rgb(196, 129, 5) 4px solid;
+    margin-left: 1em;
+    margin-bottom: 1em; 
+}
+
+body
+{
+    border: solid brown 4px;
+    width: 420px;
+    height: 490px;
+    background: antiquewhite;
+}
+h1
+{
+    margin-left: 0.5em;
+}
